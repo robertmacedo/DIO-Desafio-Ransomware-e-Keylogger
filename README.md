@@ -7,7 +7,7 @@ Optei por focar em:
 - Registrar aqui minhas reflexões, anotações e aprendizados.
 
 
-🔐 O que é um Ransomware?
+O que é um Ransomware?
 Ransomware é um tipo de malware que:
 1. Geralmente infecta o sistema por:
 - Phishing (e-mails com anexos ou links maliciosos),
@@ -25,7 +25,7 @@ Pontos que estudei
 - Impactos em: usuários domésticos e empresas.
 
 
-🎹 O que é um Keylogger?
+O que é um Keylogger?
 Um keylogger é um software (ou até hardware) que registra tudo o que o usuário digita:
 - Pode ser usado com finalidade legítima (ex.: auditoria corporativa, testes de usabilidade);
 - Mas é mais conhecido pelo uso malicioso:
@@ -44,7 +44,7 @@ Pontos que estudei
 - Riscos de privacidade e segurança.
 
 
-🛡️ Defesa: Como se Proteger
+Defesa: Como se Proteger
 Como parte do desafio, estudei medidas de prevenção e mitigação, incluindo:
 - Manter sistema operacional e softwares sempre atualizados;
 - Usar antivírus/antimalware confiáveis;
@@ -67,7 +67,7 @@ Medidas específicas contra Keyloggers
 - Ativar autenticação em duas etapas (2FA) para reduzir impacto do roubo de senhas.
 
 
-🧠 Reflexões
+Reflexões
 Algumas percepções que tive durante o estudo:
 - Todos estamos sujeitos a ataques de ransomware e keyloggers;
 - Segurança não é só ferramenta, é hábito;
