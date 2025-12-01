@@ -10,9 +10,9 @@ Optei por focar em:
 🔐 O que é um Ransomware?
 Ransomware é um tipo de malware que:
 1. Geralmente infecta o sistema por:
-   - phishing (e-mails com anexos ou links maliciosos),
-   - downloads de sites inseguros,
-   - exploração de vulnerabilidades.
+- Phishing (e-mails com anexos ou links maliciosos),
+- Downloads de sites inseguros,
+- Exploração de vulnerabilidades.
 
 2. Busca e criptografa arquivos importantes da vítima.
 
